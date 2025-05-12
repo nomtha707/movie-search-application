@@ -1,12 +1,34 @@
-# React + Vite
+# 🎬 Movie Search App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive and intuitive movie search web application built with **React**, powered by the **OMDb API** and **TMDb API**, allowing users to search for movies, and view the respeictive movie's details. It also includes the recently released movies in the home page.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[https://m0vie-search-web.netlify.app/](https://m0vie-search-web.netlify.app/)  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📸 Preview
+
+![image](https://github.com/user-attachments/assets/6f1e1e55-a21b-4d5d-872d-bcfe0fceab75)
+
+---
+
+## 🛠️ Features
+
+- 🔍 Search movies by title using OMDb and/or TMDb
+- 🖼️ Display posters, overviews, release years, ratings, genres, cast, director, production and the country
+- 🎞️ Recently released movies on the home page
+- 🌙 Responsive UI with clean design
+- ⚡ Fast and optimized build with Create React App
+
+---
+
+## 📦 Tech Stack
+
+- **Frontend:** React (with functional components & hooks)
+- **APIs:** [OMDb API](https://www.omdbapi.com/), [TMDb API](https://www.themoviedb.org/documentation/api)
+- **Hosting:** Netlify 
+- **Styling:** CSS Modules
+
+
